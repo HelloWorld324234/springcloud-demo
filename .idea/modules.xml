@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/day1/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/day1/service-hi/service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/day1/service-ribbon11/service-ribbon.iml" filepath="$PROJECT_DIR$/day1/service-ribbon11/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud-demo.iml" />
     </modules>
   </component>
