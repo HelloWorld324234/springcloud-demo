@@ -4,6 +4,9 @@ server:
 eureka:
   instance:
     hostname: localhost
+  server:
+    #关闭自我保护
+    enableSelfPreservation: false
   client:
     registerWithEureka: false
     fetchRegistry: false
