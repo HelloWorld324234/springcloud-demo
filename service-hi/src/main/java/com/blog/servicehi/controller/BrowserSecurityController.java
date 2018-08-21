@@ -1,3 +1,4 @@
+/*
 package com.blog.servicehi.controller;
 
 import org.slf4j.Logger;
@@ -17,11 +18,13 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+*/
 /**
  * @Auther: yule
  * @Date: 2018/8/20 0020 16:29
  * @Description:
- */
+ *//*
+
 @RestController
 public class BrowserSecurityController {
 
@@ -33,12 +36,14 @@ public class BrowserSecurityController {
     // 用于重定向
     private RedirectStrategy redirectStrategy = new DefaultRedirectStrategy();
 
-    /**
+    */
+/**
      * 当需要身份认证的时候，跳转过来
      * @param request
      * @param response
      * @return
-     */
+     *//*
+
     @RequestMapping("/authentication/require")
     @ResponseStatus(code = HttpStatus.UNAUTHORIZED)
     public String requireAuthenication(HttpServletRequest request, HttpServletResponse response) throws IOException {
@@ -56,3 +61,4 @@ public class BrowserSecurityController {
     }
 
 }
+*/

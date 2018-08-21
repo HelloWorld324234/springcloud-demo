@@ -1,3 +1,4 @@
+/*
 package com.blog.servicehi.config;
 
 import lombok.extern.slf4j.Slf4j;
@@ -9,11 +10,13 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
+*/
 /**
  * @Auther: yule
  * @Date: 2018/8/17 0017 16:40
  * @Description:
- */
+ *//*
+
 @Slf4j
 public class MyUserDetailsService implements UserDetailsService {
 
@@ -36,3 +39,4 @@ public class MyUserDetailsService implements UserDetailsService {
         return user;
     }
 }
+*/

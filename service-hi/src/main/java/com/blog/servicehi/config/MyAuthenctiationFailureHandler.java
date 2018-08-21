@@ -1,3 +1,4 @@
+/*
 package com.blog.servicehi.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -7,19 +8,20 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler;
-import org.springframework.stereotype.Component;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+*/
 /**
  * @Auther: yule
  * @Date: 2018/8/21 0021 09:40
  * @Description:
- */
-@Component("myAuthenctiationFailureHandler")
+ *//*
+
+//@Component("myAuthenctiationFailureHandler")
 public class MyAuthenctiationFailureHandler extends SimpleUrlAuthenticationFailureHandler {
 
     private Logger logger = LoggerFactory.getLogger(getClass());
@@ -39,3 +41,4 @@ public class MyAuthenctiationFailureHandler extends SimpleUrlAuthenticationFailu
     }
 
 }
+*/

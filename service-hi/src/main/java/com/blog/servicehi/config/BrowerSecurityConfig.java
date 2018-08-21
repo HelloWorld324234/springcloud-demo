@@ -1,17 +1,19 @@
+/*
 package com.blog.servicehi.config;
 
-import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
+*/
 /**
  * @Auther: yule
  * @Date: 2018/8/17 0017 16:37
  * @Description:
- */
-@Configuration
+ *//*
+
+//@Configuration
 public class BrowerSecurityConfig extends WebSecurityConfigurerAdapter {
 
     @Override
@@ -39,3 +41,4 @@ public class BrowerSecurityConfig extends WebSecurityConfigurerAdapter {
                 roles("USER");
     }
 }
+*/
