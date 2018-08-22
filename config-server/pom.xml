@@ -6,7 +6,10 @@
     <groupId>com.blog</groupId>
     <artifactId>config-server-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>demo7</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>config-server</name>
     <description>Demo project for Spring Boot</description>
