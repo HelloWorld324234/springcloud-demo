@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server-demo7" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server/demo7" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-zipkin/service-hi" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-hi" charset="UTF-8" />

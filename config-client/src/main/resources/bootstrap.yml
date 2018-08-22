@@ -3,7 +3,7 @@ spring:
     name: config-client
   cloud:
     config:
-      label: master
+      label: develop_study
       profile: dev
       uri: http://localhost:8888/
       discovery:

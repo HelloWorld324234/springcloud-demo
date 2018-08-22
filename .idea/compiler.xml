@@ -12,6 +12,7 @@
         <module name="eureka-server" />
         <module name="service-feign" />
         <module name="service-hi" />
+        <module name="service-hi (1)" />
         <module name="service-ribbon" />
         <module name="service-zuul" />
       </profile>
@@ -23,9 +24,11 @@
       <module name="configserver" target="1.8" />
       <module name="configserverdemo7" target="1.8" />
       <module name="demo7" target="1.8" />
+      <module name="demozipkin" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
       <module name="service-ribbon" target="1.8" />
       <module name="service-zuul" target="1.8" />
       <module name="springcloud-demo-blog" target="1.8" />

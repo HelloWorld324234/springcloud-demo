@@ -3,18 +3,19 @@ spring:
     name: config-server
   cloud:
     config:
-      label: master
+      label: develop_study
       name:
       server:
         git:
-          uri: https://github.com/forezp/SpringcloudConfig/
+          #uri: https://github.com/forezp/SpringcloudConfig/
           searchPaths: respo
           username:
           password:
+          uri: https://github.com/HelloWorld324234/springcloud-demo/
 server:
   port: 8888
 eureka:
   client:
     serviceUrl:
-      defalutZone: http://localhost:8889/eureka/
+      defaultZone: http://localhost:8889/eureka/
 
